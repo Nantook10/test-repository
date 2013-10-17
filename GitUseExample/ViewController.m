@@ -10,6 +10,8 @@
 
 @interface ViewController ()
 
+
+
 @end
 
 @implementation ViewController
@@ -28,6 +30,7 @@
 
 - (IBAction)clickTheButton:(id)sender
 {
+    int abc;
     NSLog(@"This is a Git tutorial");
 }
 
